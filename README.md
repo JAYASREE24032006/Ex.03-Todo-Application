@@ -256,7 +256,8 @@ footer {
 ## OUTPUT :
 ![image](https://github.com/user-attachments/assets/58e81153-fa5d-4e6b-ab0d-76997d07f3a5)
 
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/f6c691d0-628b-4410-b92e-d6fccd79fe97)
+
 
 
 
